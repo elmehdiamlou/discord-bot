@@ -177,7 +177,7 @@ client.on("message", message => {
     let embed = new discord.RichEmbed()
       .setTitle("Server IP")
       .setColor("#4FA4D2")
-      .setDescription("**IP :** mtasa://137.74.231.171:22003")
+      .setDescription("")
       .setThumbnail(`${client.user.displayAvatarURL}`)
       .setFooter(
         `Requested by ${message.author.tag}`,
