@@ -1,0 +1,39 @@
+{
+  "name": "template-discord-bot",
+  "version": "0.0.1",
+  "description": "A template for creating Discord bots",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "canvas": "^2.6.1",
+    "canvas-constructor": "^3.2.0",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.2.0",
+    "eslint-config-aqua": "^7.2.4",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "ms": "^2.1.2",
+    "opusscript": "^0.0.7",
+    "path": "^0.12.7",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "superagent": "^5.2.2",
+    "ytdl-core": "^3.1.1",
+    "winston": "^3.2.1",
+    "axios": "^0.19.2",
+    "commando": "^0.0.2",
+    "discord.js": "^11.6.1"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
