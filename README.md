@@ -1,10 +1,5 @@
 # Discord bot
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="<svg version="1.1" id="layer" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="-153 -46 652 652" style="enable-background:new -153 -46 652 652;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#7289DA;}
-</style>
-<path class="st0" d="M-43.6,261.8c-4.7,0-8.4,4.1-8.4,9.1s3.8,9.1,8.4,9.1c4.7,0,8.4-4.1,8.4-9.1S-39,261.8-43.6,261.8z
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="st0" d="M-43.6,261.8c-4.7,0-8.4,4.1-8.4,9.1s3.8,9.1,8.4,9.1c4.7,0,8.4-4.1,8.4-9.1S-39,261.8-43.6,261.8z
 	 M-73.8,261.8c-4.7,0-8.4,4.1-8.4,9.1s3.8,9.1,8.4,9.1c4.7,0,8.4-4.1,8.4-9.1C-65.3,265.9-69.1,261.8-73.8,261.8z M-3.4,193h-110.8
 	c-9.3,0-17,7.6-17,17v110.8c0,9.3,7.6,17,17,17h93.8l-4.4-15.1l10.6,9.8l10,9.2L13.6,357V210C13.5,200.6,5.9,193-3.4,193z
 	 M-35.3,300.1c0,0-3-3.6-5.5-6.6c10.8-3.1,15-9.8,15-9.8c-3.4,2.2-6.6,3.8-9.5,4.9c-4.1,1.7-8.1,2.8-12,3.6
@@ -23,8 +18,7 @@
 	c0,16.8,15.2,25.2,30.5,25.2c15.2,0,30.3-8.4,30.3-25.2v-25.1C336.1,235.8,320.8,227.4,305.6,227.4z M317.5,277.7c0,5.3-6,8-11.8,8
 	c-6,0-11.9-2.6-11.9-8v-25.1c0-5.4,5.8-8.3,11.6-8.3c6,0,12.2,2.6,12.2,8.3V277.7z M402.6,252.6c-0.4-17.2-12.2-24.1-27.3-24.1H346
 	v73.4h18.8v-23.3h3.3l17,23.3h23.2l-20-25.2C397.1,273.9,402.6,266.2,402.6,252.6z M375.6,262.6h-10.9v-16.8h10.9
-	C387.3,245.8,387.3,262.6,375.6,262.6z"/>
-</svg>" width="400"></a></p>
+	C387.3,245.8,387.3,262.6,375.6,262.6z" width="400"></a></p>
 
 ## 📌 My first project working with Node.js creating a discord bot.
 Bots on Discord "A group messaging platform" are helpful artificial intelligence that can perform several useful tasks on your server automatically. My Discord bot coded in JavaScript with Discord.js.\
